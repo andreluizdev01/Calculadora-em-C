@@ -5,7 +5,7 @@ int main ()
 {
     int num1, num2, soma, sub, div, multi;
     
-    printf("Caluladora do \"framengo\" 1.0 \n");
+    printf("Caluladora do 1.0 \n");
     printf("entre os 2 numeros a serem processados \n");
     scanf("%i%i", &num1, &num2);
     
